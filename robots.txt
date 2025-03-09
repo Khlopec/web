@@ -1,3 +1,3 @@
 USER-AGENT: *
 Allow: /
-Sitemap: https://khlopec.github.io/web/
+Sitemap: https://nursilya425.github.io/web/
